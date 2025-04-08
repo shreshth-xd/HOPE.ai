@@ -3,4 +3,5 @@ h1,h2{
     margin: 0;
     padding: 0;
     background-color: cyan;
+    border: 4px black;
 }
