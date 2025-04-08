@@ -1,0 +1,1 @@
+// Functions, rules, standards and major part of the programming of HOPE.ai
